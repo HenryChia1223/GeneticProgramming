@@ -1,0 +1,7 @@
+C:\Users\chia\source\repos\GeneticProgramming\obj\Debug\GeneticProgramming.csprojAssemblyReference.cache
+C:\Users\chia\source\repos\GeneticProgramming\obj\Debug\GeneticProgramming.csproj.CoreCompileInputs.cache
+C:\Users\chia\source\repos\GeneticProgramming\bin\Debug\GeneticProgramming.exe.config
+C:\Users\chia\source\repos\GeneticProgramming\bin\Debug\GeneticProgramming.exe
+C:\Users\chia\source\repos\GeneticProgramming\bin\Debug\GeneticProgramming.pdb
+C:\Users\chia\source\repos\GeneticProgramming\obj\Debug\GeneticProgramming.exe
+C:\Users\chia\source\repos\GeneticProgramming\obj\Debug\GeneticProgramming.pdb
